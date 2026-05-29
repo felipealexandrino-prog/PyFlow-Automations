@@ -1,0 +1,18 @@
+from classes import Cachorro
+from time import sleep
+dog1 = Cachorro("Pitoco", -6)
+dog1.demonstrar()
+sleep(0.5)
+dog1.latir()
+sleep(0.5)
+dog1.fazer_aniversario()
+sleep(0.5)
+dog1.idade_humana()
+dog2 = Cachorro("Eva", 12)
+dog2.demonstrar()
+sleep(0.5)
+dog2.latir()
+sleep(0.5)
+dog2.fazer_aniversario()
+sleep(0.5)
+dog2.idade_humana()    
