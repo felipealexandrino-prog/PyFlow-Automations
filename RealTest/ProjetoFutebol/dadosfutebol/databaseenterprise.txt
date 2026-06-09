@@ -1,0 +1,11 @@
+data,jogador,time,posicao,cidade_estadio,gols,assistencias
+2024-05-01,Pedro,Leões,Atacante,Recife,2,1
+2024-05-02,Carlos,Tubarões,Atacante,Salvador,1,0
+2024-05-03,Lucas,Falcões,Meia,Fortaleza,0,2
+2024-05-04,Pedro,Leões,Atacante,Recife,3,1
+2024-05-05,Rafael,Tubarões,Zagueiro,Salvador,0,0
+2024-05-06,Lucas,Falcões,Meia,Fortaleza,1,3
+2024-05-07,Carlos,Tubarões,Atacante,Recife,2,1
+2024-05-08,Pedro,Leões,Atacante,Salvador,1,0
+2024-05-09,Rafael,Tubarões,Zagueiro,Fortaleza,1,0
+2024-05-10,Lucas,Falcões,Meia,Recife,2,2

@@ -1,0 +1,9 @@
+data,aluno,modalidade,unidade,aulas_frequentadas,valor_mensalidade
+2024-05-01,Lucas,Musculação,Centro,20,120
+2024-05-01,Ana,Crossfit,Norte,18,180
+2024-05-01,Pedro,Natação,Sul,15,150
+2024-05-01,Julia,Crossfit,Centro,22,180
+2024-05-01,Carlos,Musculação,Norte,16,120
+2024-05-01,Marina,Natação,Sul,19,150
+2024-05-01,Felipe,Crossfit,Centro,21,180
+2024-05-01,Beatriz,Musculação,Norte,17,120
